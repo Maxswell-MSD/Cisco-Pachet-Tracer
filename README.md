@@ -1,6 +1,6 @@
 # Cisco Packet Tracer
 
-Este repositório foi criado pelo técnico de informática Maxswell Diniz para o treinamento diário de estruturas básicas de configuração de rede LAN, WAN e segurança de switches, VELAN, channel group, modo trunk, configuração do roteador SSID, protocolo RIP, rota estática e simulação de redes LAN com topologia básica de servidor, switch e estações de trabalho.
+Este repositório foi criado pelo técnico de informática Maxswell Diniz para o treinamento diário de estruturas básicas de configuração de rede LAN, WAN e segurança de switches, VLAN, channel group, modo trunk, configuração do roteador SSID, protocolo RIP, rota estática e simulação de redes LAN com topologia básica de servidor,Intranet,cabeamento em paralelo e crossover switch e estações de trabalho.
 
 ## Começando
 
